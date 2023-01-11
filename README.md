@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmay Mandavkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="coding" width="800" src="news24.gif">
+<img align = "right" alt="coding" width="400" src="news24.gif">
 
 - 🌱 I’m currently learning **react, java**
 
