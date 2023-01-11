@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinmay Mandavkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/102405011/211865680-a2321505-0b65-4636-b33c-8b05d55f62cf.png)">
+<img align = "right" alt="coding" width="800" src="![image](https://user-images.githubusercontent.com/102405011/211865680-a2321505-0b65-4636-b33c-8b05d55f62cf.png)">
 
 - 🌱 I’m currently learning **react, java**
 
