@@ -1,4 +1,4 @@
-![logo]<img align="center" alt="coding" width="400" src="news24.gif">
+![logo](https://github.com/Ceansyr/Ceansyr/blob/circleci-project-setup/banner.png)
 <h1 align="center">Hi 👋, I'm Chinmay Mandavkar</h1>
 <h3 align="center">A passionate Data Enthusiast and Developer from India</h3>
 
