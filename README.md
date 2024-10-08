@@ -5,7 +5,7 @@
 🚗 **Production Specialist** at Mahindra & Mahindra - Chakan Plant  
 🔧 **Expertise:** Quality Assurance, Vehicle Testing (XUV 700)  
 👨‍💻 **Aspiring Full Stack Developer** | **MERN Enthusiast**  
-🎮 **Gamer** - Currently playing **Genshin Impact** & **Honkai Star Rail** 
+🎮 **Gamer** - Currently playing **Genshin Impact** & **Honkai Star Rail**
 📊 **Tech Stack:** JavaScript, React, Express, MongoDB, Node, Python, SQL, Git, 
 
 <img align="right" alt="coding" width="400" src="news24.gif">
