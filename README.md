@@ -6,11 +6,11 @@
 🔧 **Expertise:** Quality Assurance, Vehicle Testing (XUV 700)  
 👨‍💻 **Aspiring Full Stack Developer** | **MERN Enthusiast**  
 🎮 **Gamer** - Currently playing **Genshin Impact** & **Honkai Star Rail**
-📊 **Tech Stack:** JavaScript, React, Express, MongoDB, Node, Python, SQL,& Git
+- 📊 **Tech Stack:** JavaScript, React, Express, MongoDB, Node, Python, SQL,& Git
 
 <img align="right" alt="coding" width="400" src="news24.gif">
 
-- 🌱 I’m currently learning **React, Java**, and diving deeper into **Full-Stack** with tools like **MERN**.
+- 🌱 I’m currently learning **React**, and diving deeper into **Full-Stack** with tools like **MERN**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ceansyr](https://github.com/Ceansyr)
 
