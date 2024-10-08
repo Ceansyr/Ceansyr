@@ -8,14 +8,14 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Ceansyr](https://github.com/Ceansyr)
 
 - 📫 How to reach me: **chinmaymandavkar@gmail.com**
-https://bold.pro/my/chinmay-mandavkar-231230220731/717r
+
 - 📄 Know about my professional experiences: [Resume](https://bold.pro/my/chinmay-mandavkar-231230220731/717r)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chinmay-mandavkar-401943255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay mandavkar" height="30" width="40" /></a>
 <a href="https://instagram.com/chinmaymandavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmaymandavkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ceansyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceansyr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ceansyr2553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ceansyr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
