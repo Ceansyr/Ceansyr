@@ -1,6 +1,13 @@
 ![logo](https://github.com/Ceansyr/Ceansyr/blob/circleci-project-setup/banner.png)
 <h1 align="center">Hi 👋, I'm Chinmay Mandavkar</h1>
 <h3 align="center">A passionate Data Enthusiast and Developer from India</h3>
+
+🚗 **Production Specialist** at Mahindra & Mahindra - Chakan Plant  
+🔧 **Expertise:** Quality Assurance, Vehicle Testing (XUV 700)  
+👨‍💻 **Aspiring Full Stack Developer** | **MERN Enthusiast**  
+🎮 **Gamer** - Currently playing **Genshin Impact** & **Honkai Star Rail** 
+📊 **Tech Stack:** JavaScript, React, Express, MongoDB, Node, Python, SQL, Git, 
+
 <img align="right" alt="coding" width="400" src="news24.gif">
 
 - 🌱 I’m currently learning **React, Java**, and diving deeper into **Full-Stack** with tools like **MERN**.
