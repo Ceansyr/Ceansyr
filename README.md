@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Enthusiast and Developer from India</h3>
 
 🚗 **Production Specialist** at Mahindra & Mahindra - Chakan Plant  
-🔧 **Expertise:** Quality Assurance, Vehicle Testing (XUV 700)  
+🔧 **Expertise:** Full Stack Web Development, Applied Machine Learning in Industrial QA   
 👨‍💻 **Aspiring Full Stack Developer** | **MERN Enthusiast**  
 🎮 **Gamer** - Currently playing **Genshin Impact** & **Honkai Star Rail**
 - 📊 **Tech Stack:** JavaScript, React, Express, MongoDB, Node, Python, SQL,& Git
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **chinmaymandavkar@gmail.com**
 
-- 📄 Know about my professional experiences: [Resume](https://bold.pro/my/chinmay-mandavkar-231230220731/717r)
+- 📄 Know about my professional experiences: [Resume](https://drive.google.com/file/d/1u3NjyjyzaczBgetR1krKF3noVIcDTb3A/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
